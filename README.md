@@ -46,8 +46,7 @@ opc.tcp://192.168.146.50:4840
 │   └── empresa.png         # Imagen del logo
 ├── requirements.txt        # Lista de dependencias
 └── README.md               # Este archivo
-
-
+```
 ## 🧪 Variables OPC UA expuestas
 
 - Tocho
