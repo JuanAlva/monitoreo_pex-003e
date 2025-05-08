@@ -58,9 +58,9 @@ class MainPage:
         #self.ventana.geometry("590x220")
         self.ventana.wm_attributes("-fullscreen", True)
         self.ventana.title("TEMPERATURA TOCHOS")
-        #self.ventana.iconbitmap("img/ememsa.ico")     
+        #self.ventana.iconbitmap("img/logo.ico")     
         
-        imagen = PhotoImage(file="/home/ememsa/mis_archivos/img/ememsa.png")
+        imagen = PhotoImage(file="/home/user/mis_archivos/img/logo.png")
         estilo = Style()
         estilo.configure("Tframe", background="lightgray")
         #FRAME TOP

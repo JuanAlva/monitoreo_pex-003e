@@ -43,7 +43,7 @@ opc.tcp://192.168.146.50:4840
 ├── sensor_ir.py            # Lectura desde sensor MLX90614
 ├── main.py                 # Archivo principal con interfaz y lógica
 ├── img/
-│   └── ememsa.png          # Imagen del logo
+│   └── empresa.png         # Imagen del logo
 ├── requirements.txt        # Lista de dependencias
 └── README.md               # Este archivo
 
