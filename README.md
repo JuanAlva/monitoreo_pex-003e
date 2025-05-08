@@ -37,6 +37,7 @@ opc.tcp://192.168.146.50:4840
 
 📁 Estructura del proyecto
 
+```text
 ├── adc.py                  # Funciones para lectura analógica
 ├── temp_aceite.py          # Lectura de temperatura de aceite
 ├── sensor_ir.py            # Lectura desde sensor MLX90614
@@ -45,6 +46,7 @@ opc.tcp://192.168.146.50:4840
 │   └── ememsa.png          # Imagen del logo
 ├── requirements.txt        # Lista de dependencias
 └── README.md               # Este archivo
+
 
 ## 🧪 Variables OPC UA expuestas
 
